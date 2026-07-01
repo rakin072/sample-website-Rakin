@@ -91,7 +91,7 @@ button {
 
     padding:12px 25px;
 
-    border-radius:20px;
+    border-radius:26px;
 
     cursor:pointer;
 
@@ -101,7 +101,7 @@ button {
 
 button:hover {
 
-    background-color:#ee5253;
+    background-color:#111e62;
 
 }
 
